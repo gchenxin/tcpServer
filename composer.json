@@ -1,0 +1,8 @@
+{
+	"autoload":{
+		"psr-4":{
+			"server\\":"src",
+			"server\\pool":"src/pool"
+		}
+	}
+}
